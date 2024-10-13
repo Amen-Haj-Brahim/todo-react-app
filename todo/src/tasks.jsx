@@ -1,7 +1,8 @@
 import React from 'react'
 
-export default function Tasks(tasks) {
+export default function Tasks(props) {
+    console.log(props)
     return (
-        <div>tasks</div>
+        {}
     )
 }
